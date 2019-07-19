@@ -1,0 +1,56 @@
+,Death Penalty Status,Murder Rate,Number of Records,Region,state_name,Year
+1010,Region,5.7,1,Midwest,x-Midwest,1/1/2017
+1041,Region,3.5,1,Northeast,x-Northeast,1/1/2017
+1072,Region,6.4,1,South,x-South,1/1/2017
+1103,Region,5.3,1,United States,x-United States,1/1/2017
+1134,Region,4.5,1,West,x-West,1/1/2017
+1201,Death Penalty,5.95,1,Midwest,Indiana,1/1/2017
+1202,Death Penalty,5.49,1,Midwest,Kansas,1/1/2017
+1203,Death Penalty,9.81,1,Midwest,Missouri,1/1/2017
+1204,Death Penalty,2.24,1,Midwest,Nebraska,1/1/2017
+1205,Death Penalty,6.09,1,Midwest,Ohio,1/1/2017
+1206,Death Penalty,2.87,1,Midwest,South Dakota,1/1/2017
+1233,Death Penalty,1.04,1,Northeast,New Hampshire,1/1/2017
+1234,Death Penalty,5.77,1,Northeast,Pennsylvania,1/1/2017
+1386,Death Penalty,8.29,1,South,Alabama,1/1/2017
+1387,Death Penalty,8.59,1,South,Arkansas,1/1/2017
+1388,Death Penalty,5.04,1,South,Florida,1/1/2017
+1389,Death Penalty,6.74,1,South,Georgia,1/1/2017
+1390,Death Penalty,5.9,1,South,Kentucky,1/1/2017
+1391,Death Penalty,12.42,1,South,Louisiana,1/1/2017
+1392,Death Penalty,8.21,1,South,Mississippi,1/1/2017
+1393,Death Penalty,5.75,1,South,North Carolina,1/1/2017
+1394,Death Penalty,6.16,1,South,Oklahoma,1/1/2017
+1395,Death Penalty,7.76,1,South,South Carolina,1/1/2017
+1396,Death Penalty,7.85,1,South,Tennessee,1/1/2017
+1397,Death Penalty,4.99,1,South,Texas,1/1/2017
+1398,Death Penalty,5.35,1,South,Virginia,1/1/2017
+1506,Death Penalty,5.93,1,West,Arizona,1/1/2017
+1507,Death Penalty,4.63,1,West,California,1/1/2017
+1508,Death Penalty,3.94,1,West,Colorado,1/1/2017
+1509,Death Penalty,1.86,1,West,Idaho,1/1/2017
+1510,Death Penalty,3.9,1,West,Montana,1/1/2017
+1511,Death Penalty,9.14,1,West,Nevada,1/1/2017
+1512,Death Penalty,2.51,1,West,Oregon,1/1/2017
+1513,Death Penalty,2.35,1,West,Utah,1/1/2017
+1514,Death Penalty,3.11,1,West,Washington,1/1/2017
+1515,Death Penalty,2.59,1,West,Wyoming,1/1/2017
+1574,No Death Penalty,7.79,1,Midwest,Illinois,1/1/2017
+1575,No Death Penalty,3.31,1,Midwest,Iowa,1/1/2017
+1576,No Death Penalty,5.71,1,Midwest,Michigan,1/1/2017
+1577,No Death Penalty,2.03,1,Midwest,Minnesota,1/1/2017
+1578,No Death Penalty,1.32,1,Midwest,North Dakota,1/1/2017
+1579,No Death Penalty,3.21,1,Midwest,Wisconsin,1/1/2017
+1648,No Death Penalty,2.84,1,Northeast,Connecticut,1/1/2017
+1649,No Death Penalty,1.72,1,Northeast,Maine,1/1/2017
+1650,No Death Penalty,2.52,1,Northeast,Massachusetts,1/1/2017
+1651,No Death Penalty,3.6,1,Northeast,New Jersey,1/1/2017
+1652,No Death Penalty,2.76,1,Northeast,New York,1/1/2017
+1653,No Death Penalty,1.89,1,Northeast,Rhode Island,1/1/2017
+1654,No Death Penalty,2.24,1,Northeast,Vermont,1/1/2017
+1671,No Death Penalty,5.61,1,South,Delaware,1/1/2017
+1672,No Death Penalty,9.02,1,South,Maryland,1/1/2017
+1673,No Death Penalty,4.68,1,South,West Virginia,1/1/2017
+1702,No Death Penalty,8.38,1,West,Alaska,1/1/2017
+1703,No Death Penalty,2.73,1,West,Hawaii,1/1/2017
+1704,No Death Penalty,7.09,1,West,New Mexico,1/1/2017
